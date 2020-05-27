@@ -1,7 +1,4 @@
-{
-   "name":"Browser",
-   "colorByPoint":true,
-   "data":[
+ "data":[
       {
          "name":"Chrome",
          "y":61.41,
@@ -41,4 +38,3 @@
          "y":2.61
       }
    ]
-}
